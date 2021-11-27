@@ -17,3 +17,6 @@ end
 
 # Multiplication
 # reducer.call(10, [1, 2, 3, 4, 5], lambda { |x, y| x * y })
+
+# double
+# reducer.call([], [1, 2, 3, 4, 5], lambda { |acc, x| acc << x * 2 })
