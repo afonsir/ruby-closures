@@ -20,4 +20,4 @@ new_array = %w(look ma no far loops).my_map do |x|
   x.upcase
 end
 
-puts new_array.to_s
+p new_array
